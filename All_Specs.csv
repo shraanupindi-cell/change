@@ -1,0 +1,113 @@
+denomination,face ₹,from,to,alloy,weight g,diameter mm,shape
+20 Rupees,20,2019,2022,"Bimetallic ring 65Cu/15Zn/20Ni, core 75Cu/20Zn/5Ni",8.65,27,12-sided
+20 Rupees,20,2021,2026,Bimetallic (75 Yrs Independence),,,12-sided
+10 Rupees,10,2005,2007,Bimetallic CuNi core / Al-bronze ring,7.71,27,round
+10 Rupees,10,2011,2019,Bimetallic CuNi core / Al-bronze ring,7.71,27,round
+10 Rupees,10,2019,2022,Bimetallic CuNi core / Ni-brass ring,7.74,27,round
+10 Rupees,10,2021,2026,Bimetallic Ni-silver core / Ni-brass ring,7.74,27,round
+5 Rupees,5,1992,2007,Cupro-nickel,9,23,round
+5 Rupees,5,2007,2008,Stainless steel,6,23,round
+5 Rupees,5,2009,2018,Nickel-brass,6,23,round
+5 Rupees,5,2019,2022,Nickel-brass,6.74,25,round
+5 Rupees,5,2021,2026,Nickel-brass,6.74,25,round
+2 Rupees,2,1992,2004,Cupro-nickel,6,26,11-sided
+2 Rupees,2,2005,2007,Ferritic stainless steel,5.8,26.75,round
+2 Rupees,2,2007,2011,Stainless steel,5.8,27,round
+2 Rupees,2,2011,2019,Stainless steel,4.9,25,round
+2 Rupees,2,2019,2021,Stainless steel,4.07,23,round
+2 Rupees,2,2021,2026,Stainless steel,4.07,23,round
+1 Rupee,1,1900,1901,Silver .917,11.66,30.79,round
+1 Rupee,1,1903,1910,Silver .917,11.66,30.6,round
+1 Rupee,1,1911,1911,Silver .917,11.66,,round
+1 Rupee,1,1912,1936,Silver .917,11.66,30.5,round
+1 Rupee,1,1938,1939,Silver .917,11.66,30.5,round
+1 Rupee,1,1940,1945,Quaternary .500,11.66,30.5,round
+1 Rupee,1,1947,1947,Pure nickel,11.8,28,round
+1 Rupee,1,1950,1954,Nickel,11.7,27.9,round
+1 Rupee,1,1962,1974,Nickel,10,28,round
+1 Rupee,1,1975,1982,Cupro-nickel,8,28,round
+1 Rupee,1,1982,1991,Cupro-nickel,6,26,round
+1 Rupee,1,1992,2004,Stainless steel,4.85,25,round
+1 Rupee,1,2004,2006,Stainless steel,4.95,25,round
+1 Rupee,1,2007,2011,Stainless steel,4.8,25,round
+1 Rupee,1,2011,2019,Stainless steel,3.79,22,round
+1 Rupee,1,2021,2026,Stainless steel,3.09,20,round
+Half Rupee,0.5,1900,1900,Silver .917,5.83,,round
+Half Rupee,0.5,1905,1910,Silver .917,5.83,,round
+Half Rupee,0.5,1911,1936,Silver .917,5.83,24.1,round
+8 Annas,0.5,1919,1920,Cupro-nickel,7.77,26.2,round
+Half Rupee,0.5,1938,1939,Silver .917,5.83,24,round
+Half Rupee,0.5,1940,1945,Quaternary .500,5.83,24,round
+Half Rupee,0.5,1946,1947,Pure nickel,5.83,24,round
+Half Rupee,0.5,1950,1956,Nickel,5.78,24,round
+50 Naye Paise,0.5,1957,1963,Nickel,5,24,round
+50 Paise,0.5,1964,1971,Nickel,5,24,round
+50 Paise,0.5,1972,1990,Cupro-nickel,5,24,round
+50 Paise,0.5,1988,2007,Stainless steel,3.79,22,round
+50 Paise,0.5,2008,2010,Stainless steel,3.8,22,round
+50 Paise,0.5,2011,2016,Stainless steel,2.9,19,round
+Quarter Rupee,0.25,1900,1901,Silver .917,2.92,19,round
+Quarter Rupee,0.25,1903,1910,Silver .917,2.92,19,round
+Quarter Rupee,0.25,1911,1936,Silver .917,2.92,19,round
+4 Annas,0.25,1919,1921,Cupro-nickel,6.8,24,round
+Quarter Rupee,0.25,1938,1939,Silver .917,2.92,19,round
+Quarter Rupee,0.25,1940,1945,Quaternary .500,2.91,19,round
+Quarter Rupee,0.25,1946,1947,Pure nickel,2.9,19,round
+Quarter Rupee,0.25,1950,1956,Nickel,2.9,19,round
+25 Naye Paise,0.25,1957,1963,Nickel,2.42,18.7,round
+25 Paise,0.25,1964,1968,Nickel,2.55,19,round
+25 Paise,0.25,1972,1990,Cupro-nickel,2.5,19,round
+25 Paise,0.25,1988,2002,Stainless steel,2.83,19,round
+20 Paise,0.2,1968,1971,Nickel-brass,4.6,22,round
+20 Paise,0.2,1982,1997,Aluminium-magnesium,2.2,26,hexagonal
+2 Annas,0.125,1900,1901,Silver .917,1.46,15.7,round
+2 Annas,0.125,1903,1910,Silver .917,1.46,15.4,round
+2 Annas,0.125,1911,1911,Silver .917,1.46,16,round
+2 Annas,0.125,1912,1917,Silver .917,1.46,15.4,round
+2 Annas,0.125,1918,1936,Cupro-nickel,5.7,25.3,square
+2 Annas,0.125,1939,1941,Cupro-nickel,5.84,25,square
+2 Annas,0.125,1942,1945,Nickel-brass,5.79,25.3,square
+2 Annas,0.125,1946,1947,Cupro-nickel,5.84,25,square
+2 Annas,0.125,1950,1955,Cupro-nickel,5.78,25.4,round
+10 Naye Paise,0.1,1957,1963,Cupro-nickel,4.9,23,round
+10 Paise,0.1,1964,1967,Cupro-nickel,4.9,23,round
+10 Paise,0.1,1968,1971,Nickel-brass,4.3,23,round
+10 Paise,0.1,1971,1982,Aluminium-magnesium,2.3,26,scalloped
+10 Paise,0.1,1983,1993,Aluminium,1.76,23.03,round
+10 Paise,0.1,1988,1998,Stainless steel,2,16,round
+1 Anna,0.0625,1906,1910,Cupro-nickel,3.9,20.5,scalloped
+1 Anna,0.0625,1912,1936,Cupro-nickel,3.8,20.5,scalloped
+1 Anna,0.0625,1938,1941,Cupro-nickel,3.8,20,scalloped
+1 Anna,0.0625,1942,1945,Nickel-brass,3.84,20.75,scalloped
+1 Anna,0.0625,1946,1947,Cupro-nickel,3.87,21.1,scalloped
+1 Anna,0.0625,1950,1954,Cupro-nickel,3.88,21,round
+5 Naye Paise,0.05,1957,1963,Cupro-nickel,4.05,22,square
+5 Paise,0.05,1964,1966,Cupro-nickel,4.05,22,square
+5 Paise,0.05,1967,1971,Aluminium,1.6,22,square
+5 Paise,0.05,1972,1984,Aluminium,1.5,22,square
+5 Paise,0.05,1984,1994,Aluminium,1.03,22,square
+Half Anna,0.03125,1942,1945,Nickel-brass,2.92,19.8,square
+Half Anna,0.03125,1946,1947,Cupro-nickel,2.87,19.7,square
+Half Anna,0.03125,1950,1955,Cupro-nickel,2.916,19.05,square
+3 Paise,0.03,1964,1971,Aluminium,1.2,21,hexagonal
+2 Naye Paise,0.02,1957,1963,Cupro-nickel,2.95,18,scalloped
+2 Paise,0.02,1964,1964,Cupro-nickel,2.95,18,scalloped
+2 Paise,0.02,1965,1981,Aluminium-magnesium,1,20,scalloped
+1/4 Anna,0.015625,1903,1906,Copper,6.48,25.3,round
+1/4 Anna,0.015625,1906,1910,Bronze,4.83,25.3,round
+1/4 Anna,0.015625,1911,1936,Bronze,4.78,25.4,round
+1/4 Anna,0.015625,1938,1942,Bronze (post-1936),4.86,25.3,round
+1 Pice,0.015625,1943,1947,Bronze (1943 mix),2,21.32,"round, holed"
+1 Pice,0.015625,1950,1955,Bronze,2.92,21,round
+1 Naya Paisa,0.01,1957,1962,Bronze,1.5,16,round
+1 Naya Paisa,0.01,1962,1963,Nickel-brass,1.51,16,round
+1 Paisa,0.01,1964,1964,Nickel-brass,1.48,16,round
+1 Paisa,0.01,1965,1981,Aluminium-magnesium,0.75,17,square
+1/2 Pice,0.007812,1903,1906,Copper,2.9,20,round
+1/2 Pice,0.007812,1904,1910,Bronze,2.4,21.2,round
+1/2 Pice,0.007812,1912,1936,Bronze,2.4,21.05,round
+1/2 Pice,0.007812,1938,1940,Bronze (post-1936),2.4,21.1,round
+1/12 Anna,0.005208,1903,1906,Copper,2.17,17.5,round
+1/12 Anna,0.005208,1904,1910,Bronze,1.6,17.5,round
+1/12 Anna,0.005208,1912,1936,Bronze,1.65,17.4,round
+1/12 Anna,0.005208,1938,1942,Bronze (post-1936),1.62,17.5,round
